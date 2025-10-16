@@ -1,7 +1,7 @@
 ﻿
 import { connect } from 'cloudflare:sockets';
 
-let userID = '5ce30fd8-3f05-45c6-88f3-42be3e967707';
+let userID = '08b668d4-174c-48ba-b8b2-a9c328ed17b8';
 let proxyIP = '';
 //let sub = '';
 let subConverter = atob('U3ViQXBpLkNtbGlVc3NzUy5OZXQ=');
@@ -5814,3 +5814,4 @@ async function handleWebSocket(request) {
     });
 
 }
+
